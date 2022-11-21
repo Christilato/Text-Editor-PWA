@@ -1,5 +1,14 @@
 # Text-Editor-PWA
-Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+The purpose of this project was to build a single-page text editor application that runs in the browser and is also installable as a PWA (Progressive Web Application). This application uses an IndexedDB database to get and store data. specifically, methods from the idb package were used to implement data persistence.
+
+## Technoglies Used
+1. Language: Javascript
+2. Language: CSS
+3. Environment: Node.js
+4. Databaase: IndexedDB
+5. NPM: idb
+6. NPM: Express.js
+7. Deployment: Heroku
 
 ## Screenshot
 
